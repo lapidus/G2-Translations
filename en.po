@@ -21,4 +21,6 @@ msgstr "New Balance"
 msgid "New Balance explain"
 msgstr "New Balance is about <b>highlighted text</b>"
 
-
+# desc: ...
+msgid "New Balance extra"
+msgstr "And as you know ..."
