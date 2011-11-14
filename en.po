@@ -1,5 +1,3 @@
-msgid ""
-msgstr ""
 "Project-Id-Version: Gapminder\n"
 "POT-Creation-Date: 2010-02-04 10:55+0900\n"
 "PO-Revision-Date: 2011-11-14 13:05+0000\n"
